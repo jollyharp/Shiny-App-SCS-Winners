@@ -1,0 +1,44 @@
+year,name,sex,breed,coat,title,owner_1,owner_2,breeder_1,breeder_2,breeder_owner_match,section
+2026,GrPr Forestshadow Oliver,unknown,Norwegian forest cat,unknown,none,TBA,none,Mr D Handy,none,FALSE,2
+2025, Debretts Thalia of Beauty,unknown,Asian,unknown,Olympian Gold Imperial Grand Premier,Ged Dockrell,none,Jane Kibble,none,FALSE,5
+2024,Abydreames Dathuil,unknown,Abyssinian,unknown,none,Michael Eames,Lillian Eames,Michael Eames,Lillian Eames,TRUE,4
+2023,Abydreames Clara Bow,unknown,Abyssinian,unknown,none,Nathan Gilbert,none,Michael Eames,Lillian Eames,FALSE,4
+2022, Cheham Chantilly Lace,unknown,RagaMuffin,unknown,Supreme UK Olympian Gold Imperial Grand Premier,Ellen Camilleri,none,Chris Powell,Alan Wells,FALSE,2
+2019, Melkelter Galiya Gertruda,unknown,Russian ,Blue,Olympian Silver Imperial Grand Champion,Mr P Phillips,Mrs P Phillips,Mr P Phillips,Mrs P Phillips,TRUE,4
+2018, Riascatz Dandy Lion,unknown, Persian,Red Silver Tabby & White,UK Olympian Gold Imperial Grand Champion & Grand Premier,Jade Gore,none,Marie Hill,none,FALSE,1
+2017, Cullykhan Vivaldi,unknown,Persian,Brown Tabby & White,Imperial Grand Champion & Olympian Silver Imperial Grand Premier,Carol Tonks,none,Angela Millican,none,FALSE,1
+2016,Tweediemill Islay Mist,unknown, Birman,Blue Point,none,Mrs J Sharp,none,Mrs J Sharp,none,TRUE,2
+2015, Kolinga Emrys,unknown,British,Blue,Supreme UK Imperial Grand Premier,Ms S Cresswell,none,Mr A,Mrs C Brown,FALSE,3
+2014, Pinemarten Tina Sparkle,unknown,British,Lilac Tortie,Supreme Grand Premier,Mrs P Hopgood,none,Mr Parry,Mrs Parry,FALSE,3
+2013, Gemkin Starwind,male,Persian,White,Supreme UK Olympian Bronze Imperial Grand Champion,Mrs J L Nicholas,none,Mrs J L Nicholas,none,TRUE,1
+2012, Gemkin Starwind,male,Persian,White,Supreme UK Olympian Bronze Imperial Grand Champion,Mrs J L Nicholas,none,Mrs J L Nicholas,none,TRUE,1
+2011, Crisan Camelott,unknown, Cornish Rex,Black Smoke and White,Champion Supreme UK & Imperial Grand Premier,Miss E M Hummerston,none,Mrs C A Thompson,none,FALSE,4
+2010, Julescoon Dexter,unknown, Maine Coon,Brown Classic Tabby,Supreme Champion,Mr Gregson,Mrs Gregson,Mr Gregson,Mrs Gregson,TRUE,2
+2009, Mainman Kisschase,unknown,Burmese,Brown,Supreme UK Imperial Grand Champion,Ms J Mooney,Miss S Reid,Ms J Mooney,Miss S Reid,TRUE,5
+2008, Dairymaine Sarnia Cherie,unknown, Maine Coon,Tortie Tabby,Supreme UK Imperial Grand Premier,Miss S Rabey,none,Mrs J M Haynes,none,FALSE,2
+2007, Tianlex Full Monty,unknown,Siamese,Cream Point,Supreme UK & Imperial Grand Premier,Dr J H Muir-Taylor,none,Mrs P Cook,none,FALSE,7
+2006, Grizabella Ohbladi Ohblada,unknown, Devon Rex,Black Smoke,Supreme UK & Imperial Grand Champion,Mr J A Boucher,Mrs J A Boucher,Mrs I Challis,none,FALSE,4
+2005, Dairymaine Chestaton,unknown, Maine Coon,Red Tabby,Supreme UK & Imperial Grand Premier,Mrs J M Haynes,none,Mrs J M Haynes,none,TRUE,2
+2004, Lindenlea Reachfor Thesky,unknown,Persian,White,Grand Champion & Supreme UK Grand Premier,Mrs J A Raffaelli,none,Miss G G Houston,none,FALSE,1
+2003, Tattlebury Tudur,male neuter, Manx ,Red Tabby,Grand Champion & Supreme Grand Premier,Mrs J Hellman,none,Mrs J Hellman,none,TRUE,3
+2002, Yankidoodle Fairy Dust,female neuter,Chinchilla ,unknown,Supreme UK Grand Premier,Miss C E Wheeler,none,Mrs S L Signy,none,FALSE,1
+2001, Oakenshield Buster Bertie,male,Burmese,Red,Supreme UK Grand Champion,Mrs N Bass,none,Mrs C E Kempe,none,FALSE,5
+2000, Amoramist Who's Gorgeous,male, Colourpoint ,Chocolate Tabby,Grand Champion,Mrs M Holden-Ritchie,none,Mrs M Holden-Ritchie,none,TRUE,1
+1999, Chelanca Lord Gyllene,male neuter,Oriental,Chocolate Silver Shaded,Grand Champion & Supreme Grand Premier,Mrs C Wooler,none,Mrs B Fellows,none,FALSE,6
+1998, Hypnos Pearly Pandora,female,Burmese,Chocolate,Grand Champion,Ms S L Hope,none,Mrs S L Hope,none,FALSE,5
+1997, Meshuga Firestarter,male,Oriental,Red,Champion & Grand Premier,Ms C J Hamilton,Mr D Cooke,Ms C J Hamilton,Mr D Cooke,TRUE,6
+1996, Akdamar Bazisey Mahsus,male neuter, Turkish Van ,Auburn,Supreme UK Grand Premier,Mrs J Johnson,none,Mrs J Johnson,none,TRUE,2
+1995, Akdamar Bazisey Mahsus,male neuter, Turkish Van ,Auburn,Supreme UK Grand Premier,Mrs J Johnson,none,Mrs J Johnson,none,TRUE,2
+1994, Rimana Sangria,male,Havana ,unknown,Supreme Grand Champion & Grand Premier,Mrs C Wooller,none,Mr M J,Mrs M Ward,FALSE,6
+1993, Firanti Blue Fiori,male neuter,Persian,Blue,Champion & Supreme Grand Premier,Miss A Bowman,none,Mrs D Cooke,none,FALSE,1
+1992, Akdamar Toru,male, Turkish Van ,Auburn,Premier,Mrs L M Keeler,none,Mrs J Johnson,none,FALSE,2
+1986, Pannaduloa Blazer,male, Siamese ,Red Point,Supreme Grand Champion,Mr J Hansson,none,Mr J Hansson,none,TRUE,1
+1985, Honeycharm Jasmine,female,Persian,Tortoiseshell,Supreme Grand Champion,Mrs B Patch,none,Mrs B Patch,none,TRUE,1
+1984, Soria Sanjo Panza,male,Siamese,Red Tabby Point,Supreme Grand Champion,Mrs M E Hunt,none,Mrs M E Hunt,none,TRUE,7
+1983, Fleurielle Model T,male, Persian ,Blue,Supreme Grand Champion,Mrs T Mellor,none,Mrs T Mellor,none,TRUE,7
+1982, Zachary Apollo,male,Siamese,Chocolate Tabby Point,Supreme Grand Champion,Mrs D Sills,none,Mrs J Lynn,none,FALSE,7
+1981, Premontre Tancred,male,Persian,Blue Point,Supreme Grand Champion,Mrs M E Shingleton,none,Mrs M E Shingleton,none,TRUE,1
+1979, Tatleberry Long John,male, Manx ,Black & White,Supreme Grand Champion,Mrs A Jameson,none,Mrs J Hellman,none,FALSE,3
+1978, Cobden Charlie,male,Persian,Seal Point,Supreme Grand Champion,Mrs A Boothman,none,Mrs Ryan,none,FALSE,1
+1977, Snowbloom Ja'Bin,male,Persian,Silver,Supreme Grand Champion,Mrs K Evans,none,Mrs K Evans,none,TRUE,1
+1976, Moondance Jocasta,female,Siamese,Chocolate Tabby Point,Supreme Grand Champion,Mrs J B Brain,none,Mrs J B Brain,none,TRUE,7
